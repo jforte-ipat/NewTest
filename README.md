@@ -1,2 +1,2 @@
 Description du projet \n
-Bonjour je suis Github
+Command prompt description
