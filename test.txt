@@ -1,4 +1,4 @@
 Test document n°1
 Github text
 Branch text test
-Selective merge test 2
+Selective merge test 5
