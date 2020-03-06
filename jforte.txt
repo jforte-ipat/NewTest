@@ -1,1 +1,2 @@
-Je suis jforte
+`Je suis jforte.
+Selective merge test 1
