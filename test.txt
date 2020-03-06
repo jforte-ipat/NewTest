@@ -3,3 +3,4 @@ Github text
 Branch text test
 Je fais un Selective merge test 5
 jforte-test
+Save in stash
