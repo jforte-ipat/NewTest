@@ -2,3 +2,4 @@ Test document n°1
 Github text
 Branch text test
 Je fais un Selective merge test 5
+Master
